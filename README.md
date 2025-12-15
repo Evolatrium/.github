@@ -14,7 +14,7 @@
 Use creativity and innovation and tuild software that solves real-world friction.
 
 ### 🛠️ The Stack
-We build with a modern, type-safe architecture:
+A modern, type-safe architecture:
 *   **Frontend:** React, Astro, Tailwind
 *   **Backend:** Node.js, PostgreSQL
 *   **Intelligence:** OpenAI API, Custom Agents
